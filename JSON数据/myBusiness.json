@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "iconfont icon-jiankongshuju",
+    "title": "就地监控",
+    "text": "IN-SITU MONITORING",
+    "content": "本部分以电厂的输煤、化水、除灰等辅助控制为依托,逐步扩展到化工、水泥等行业的PLC应用，属于就地SCADA监控系统。"
+  },
+  {
+    "icon": "iconfont icon-shujucaiji",
+    "title": "数据采集",
+    "text": "DATA ACQUISITION",
+    "content": "主要是将企业内的生产环节全部数字化、信息化，并辅助以基础的报表、展示、统计、查询分析等功能；"
+  },
+  {
+    "icon": "iconfont icon-yidongyunkongzhitaiicon41",
+    "title": "数据挖掘",
+    "text": "DATA EXCAVATE",
+    "content": "主要是以电科院汽机、锅炉专业调试、试验、测点设计、数据采集、分析、模化、管理、调控为专业基础，立足于电厂热能动力、电力、热力生产过程的数据采集、处理、分析、挖掘、诊断、建模与调控的专业技术优势，通过专业化模型、同步化管理、精细化调控、实效化过程，服务于电力生产过程"
+  }
+]
